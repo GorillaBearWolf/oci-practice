@@ -1,0 +1,8 @@
+﻿#+title: Oracle Cloud Infrastructure Architect Associate Workshop
+#+author: Matthew Refsnider
+
+* Account Provisioning
+
+** Best Practices
+
+- Create dedicated compartments to isolate resources
